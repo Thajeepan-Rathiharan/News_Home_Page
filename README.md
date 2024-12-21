@@ -19,6 +19,7 @@ This is my repository for the News homepage [coding challenge by Frontend Mentor
 - Screenshot of the page on a mobile device.
 ![Screenshot of the page on a mobile device.](IMG/burger-menu-icon.jpg) 
 
+- Screenshot of the burger menu icon on a mobile device.
 ![Screenshot of the burger menu icon on a mobile device.](IMG/burger-menu-icon.jpg) 
 
 - Screenshot of the burger menu open on a mobile device.

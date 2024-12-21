@@ -94,6 +94,8 @@
   /* CSS rule for the sidebar. */
   .hamburger {
     display: none;
+    margin-right:1px; /* Pushes the burger menu icon in a pixel so it is in line with the edge of the image it is above. */
+    margin-top: 20px; /* Pushes the burger menu icon down from the top of the screen, so it is visible, and a clickable area on the smaller device screen. */
   }
   ul {
     width: 40%;

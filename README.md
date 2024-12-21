@@ -1,8 +1,8 @@
 # Dummy News Homepage
 
-## [Link to my result.](https://thajeepan-rathiharan.github.io/News_Homepage/)
+## [Link to my result](https://thajeepan-rathiharan.github.io/News_Homepage/)
 
-This is my repository for the News homepage [coding challenge by Frontend Mentor.](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl).
+This is my repository for the News homepage [coding challenge by Frontend Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl).
 
 ## Coding languages used:
 - HTML

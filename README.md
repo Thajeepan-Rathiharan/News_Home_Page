@@ -16,11 +16,8 @@ This is my repository for the News homepage [coding challenge by Frontend Mentor
 - Screenshot of the bottom half of the page on a desktop device.
 ![Screenshot of the bottom half of the page on a desktop device.](IMG/bottom.png)
 
-- Screenshot of the page on a mobile device.
+- Screenshot of the page on a mobile device with the burger menu icon.
 ![Screenshot of the page on a mobile device.](IMG/burger-menu-icon.jpg) 
-
-- Screenshot of the burger menu icon on a mobile device.
-![Screenshot of the burger menu icon on a mobile device.](IMG/burger-menu-icon.jpg) 
 
 - Screenshot of the burger menu open on a mobile device.
 ![Screenshot of the burger menu open on a mobile device.](IMG/burger-menu.jpg) 
